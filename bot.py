@@ -409,7 +409,7 @@ def brn(ccx):
 }
 	
 	response = requests.post(
-    f'https://api.braintreegateway.com/merchants/np36c2tr5dtm362n/client_api/v1/payment_methods/{tok}/three_d_secure/lookup',
+    f'https://api.braintreegateway.com/merchants/msf5rf5mg5f3y6fy/client_api/v1/payment_methods/{tok}/three_d_secure/lookup',
     headers=headers,
     json=json_data,
 )
