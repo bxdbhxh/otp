@@ -30,11 +30,11 @@ bot_token = '7731481404:AAGsWUypRAbyHVbmVpByoP5zIXBjOmjpB2w'
 admin_id = '6332270659'  # يجب استبداله بمعرف المدير الصحيح
 api_id = '6332270659'  # يجب استبداله بالمعرف API الخاص بك
 api_hash = '504e5a1c630d0c668fd94e744e6538aa'  # يجب استبداله بالهاش API الخاص بك
-phone_number = '+201004709692'  # يجب استبداله برقم الهاتف الخاص بك
+phone_number = '+9647762410382'  # يجب استبداله برقم الهاتف الخاص بك
 cache_file = "bin_cache.json"
 bot_working = True
 banned_users = set()
-admins = set([5874348944])#ايديك هنا بدل كلمه id
+admins = set([6332270659])#ايديك هنا بدل كلمه id
 users = {}
 
 broadcast_list = []
